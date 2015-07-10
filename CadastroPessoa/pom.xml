@@ -2,12 +2,12 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>cadastro</groupId>
-  <artifactId>cadastro</artifactId>
+  <groupId>Cadastro_Senac</groupId>
+  <artifactId>Cadastro_Senac</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
 
-  <name>Cadastro</name>
+  <name>Cadastro_Senac</name>
   <url>http://maven.apache.org</url>
 
   <properties>
