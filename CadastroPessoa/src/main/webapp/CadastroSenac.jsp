@@ -8,7 +8,7 @@
 
 <meta charset="utf-8" />
 
-<title>Senac Goiás - Contato</title>
+<title>Senac Goiás</title>
 
 <meta name="viewport" content="width=1020" />
 <meta name="generator" content="HTML-Kit 292">
